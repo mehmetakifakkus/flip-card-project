@@ -6,7 +6,7 @@ import data3 from "./assets/data3.json";
 function App() {
   return (
     <div className="App">
-      <h1>English Cards Project</h1>
+      <h1>English Cards Project - Akif</h1>
       <CardManager data={data3}/>
     </div>
   );
