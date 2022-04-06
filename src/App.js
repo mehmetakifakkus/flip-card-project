@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import CardManager from './components/CardManager';
+import data from "./assets/data.json";
+import data3 from "./assets/data3.json";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>English Cards Project</h1>
+      <CardManager data={data3}/>
     </div>
   );
 }
