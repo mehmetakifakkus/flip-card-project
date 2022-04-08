@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/flip-card-project/static/css/main.03b5ba46.css",
-    "main.js": "/flip-card-project/static/js/main.0ee70a91.js",
+    "main.js": "/flip-card-project/static/js/main.7323a462.js",
     "static/js/787.455ff38a.chunk.js": "/flip-card-project/static/js/787.455ff38a.chunk.js",
+    "static/media/howto.gif": "/flip-card-project/static/media/howto.7ce0070c3a6e9f910720.gif",
+    "static/media/googlesheets.png": "/flip-card-project/static/media/googlesheets.95cde7948bc37158aa6d.png",
     "index.html": "/flip-card-project/index.html",
     "main.03b5ba46.css.map": "/flip-card-project/static/css/main.03b5ba46.css.map",
-    "main.0ee70a91.js.map": "/flip-card-project/static/js/main.0ee70a91.js.map",
+    "main.7323a462.js.map": "/flip-card-project/static/js/main.7323a462.js.map",
     "787.455ff38a.chunk.js.map": "/flip-card-project/static/js/787.455ff38a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03b5ba46.css",
-    "static/js/main.0ee70a91.js"
+    "static/js/main.7323a462.js"
   ]
 }
